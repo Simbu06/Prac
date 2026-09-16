@@ -1,0 +1,13 @@
+rules:
+
+  - username: production@engine.com
+    websitecode: 41
+    old_status: 0
+    new_status: 209
+    jenkins_job: Null_ins_new_209
+
+  - username: production@engine.com
+    websitecode: 9
+    old_status: 0
+    new_status: 209
+    jenkins_job: Null_ins_new_209

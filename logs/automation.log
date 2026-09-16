@@ -1,0 +1,261 @@
+2026-09-14 00:44:30,826 | INFO | ================================================================================
+2026-09-14 00:44:30,827 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 00:44:30,828 | INFO | ================================================================================
+2026-09-14 00:44:30,828 | INFO | Validating environment...
+2026-09-14 00:44:30,828 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 00:44:30,834 | INFO | Loaded 2 rule(s)
+2026-09-14 00:44:30,834 | INFO | Connecting to MongoDB...
+2026-09-14 00:44:32,738 | INFO | MongoDB connection successful
+2026-09-14 00:44:32,738 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 00:44:32,738 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 00:44:33,066 | INFO | Rule #1 | matched=2 | modified=2
+2026-09-14 00:44:33,067 | INFO | Rule #1 changed 2 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 00:44:33,067 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 00:44:33,403 | INFO | Rule #2 | matched=0 | modified=0
+2026-09-14 00:44:33,403 | INFO | Rule #2 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 00:44:33,706 | INFO | Total MongoDB records modified: 2
+2026-09-14 00:44:33,707 | INFO | Jenkins job(s) to trigger: Null_ins_new_209
+2026-09-14 00:44:33,707 | INFO | Triggering Jenkins job: Null_ins_new_209
+2026-09-14 00:44:33,707 | INFO | Jenkins URL: https://jenkins.aggregateintelligence.com/job/DC%20Support%20Scripts%20Handling/job/Null_ins_new_209/build
+2026-09-14 00:44:35,689 | INFO | Jenkins job triggered successfully: Null_ins_new_209
+2026-09-14 00:44:35,689 | INFO | Jenkins queue URL: http://jenkins.aggregateintelligence.com/queue/item/70784/
+2026-09-14 00:44:35,691 | INFO | ================================================================================
+2026-09-14 00:44:35,692 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 00:44:35,692 | INFO | ================================================================================
+2026-09-14 00:46:15,915 | INFO | ================================================================================
+2026-09-14 00:46:15,916 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 00:46:15,916 | INFO | ================================================================================
+2026-09-14 00:46:15,916 | INFO | Validating environment...
+2026-09-14 00:46:15,916 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 00:46:15,919 | INFO | Loaded 2 rule(s)
+2026-09-14 00:46:15,919 | INFO | Connecting to MongoDB...
+2026-09-14 00:46:17,800 | INFO | MongoDB connection successful
+2026-09-14 00:46:17,800 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 00:46:17,801 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 00:46:18,133 | INFO | Rule #1 | matched=2 | modified=2
+2026-09-14 00:46:18,133 | INFO | Rule #1 changed 2 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 00:46:18,133 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 00:46:18,458 | INFO | Rule #2 | matched=1 | modified=1
+2026-09-14 00:46:18,459 | INFO | Rule #2 changed 1 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 00:46:18,765 | INFO | Total MongoDB records modified: 3
+2026-09-14 00:46:18,765 | INFO | Jenkins job(s) to trigger: Null_ins_new_209
+2026-09-14 00:46:18,766 | INFO | Triggering Jenkins job: Null_ins_new_209
+2026-09-14 00:46:18,766 | INFO | Jenkins URL: https://jenkins.aggregateintelligence.com/job/DC%20Support%20Scripts%20Handling/job/Null_ins_new_209/build
+2026-09-14 00:46:20,668 | INFO | Jenkins job triggered successfully: Null_ins_new_209
+2026-09-14 00:46:20,669 | INFO | Jenkins queue URL: http://jenkins.aggregateintelligence.com/queue/item/70785/
+2026-09-14 00:46:20,670 | INFO | ================================================================================
+2026-09-14 00:46:20,671 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 00:46:20,671 | INFO | ================================================================================
+2026-09-14 00:47:26,860 | INFO | ================================================================================
+2026-09-14 00:47:26,861 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 00:47:26,861 | INFO | ================================================================================
+2026-09-14 00:47:26,861 | INFO | Validating environment...
+2026-09-14 00:47:26,861 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 00:47:26,865 | INFO | Loaded 2 rule(s)
+2026-09-14 00:47:26,866 | INFO | Connecting to MongoDB...
+2026-09-14 00:47:28,742 | INFO | MongoDB connection successful
+2026-09-14 00:47:28,742 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 00:47:28,742 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 00:47:29,065 | INFO | Rule #1 | matched=2 | modified=2
+2026-09-14 00:47:29,065 | INFO | Rule #1 changed 2 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 00:47:29,065 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 00:47:29,384 | INFO | Rule #2 | matched=0 | modified=0
+2026-09-14 00:47:29,384 | INFO | Rule #2 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 00:47:29,685 | INFO | Total MongoDB records modified: 2
+2026-09-14 00:47:29,685 | INFO | Jenkins job(s) to trigger: Null_ins_new_209
+2026-09-14 00:47:29,685 | INFO | Triggering Jenkins job: Null_ins_new_209
+2026-09-14 00:47:29,686 | INFO | Jenkins URL: https://jenkins.aggregateintelligence.com/job/DC%20Support%20Scripts%20Handling/job/Null_ins_new_209/build
+2026-09-14 00:47:31,621 | INFO | Jenkins job triggered successfully: Null_ins_new_209
+2026-09-14 00:47:31,622 | INFO | Jenkins queue URL: http://jenkins.aggregateintelligence.com/queue/item/70786/
+2026-09-14 00:47:31,623 | INFO | ================================================================================
+2026-09-14 00:47:31,624 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 00:47:31,624 | INFO | ================================================================================
+2026-09-14 00:47:42,214 | INFO | ================================================================================
+2026-09-14 00:47:42,215 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 00:47:42,215 | INFO | ================================================================================
+2026-09-14 00:47:42,215 | INFO | Validating environment...
+2026-09-14 00:47:42,215 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 00:47:42,218 | INFO | Loaded 2 rule(s)
+2026-09-14 00:47:42,218 | INFO | Connecting to MongoDB...
+2026-09-14 00:47:44,102 | INFO | MongoDB connection successful
+2026-09-14 00:47:44,103 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 00:47:44,103 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 00:47:44,445 | INFO | Rule #1 | matched=0 | modified=0
+2026-09-14 00:47:44,445 | INFO | Rule #1 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 00:47:44,445 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 00:47:44,773 | INFO | Rule #2 | matched=0 | modified=0
+2026-09-14 00:47:44,773 | INFO | Rule #2 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 00:47:45,069 | INFO | Total MongoDB records modified: 0
+2026-09-14 00:47:45,070 | INFO | No MongoDB records changed.
+2026-09-14 00:47:45,070 | INFO | No Jenkins jobs will be triggered.
+2026-09-14 00:47:45,070 | INFO | ================================================================================
+2026-09-14 00:47:45,070 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 00:47:45,070 | INFO | ================================================================================
+2026-09-14 00:52:28,886 | INFO | ================================================================================
+2026-09-14 00:52:28,886 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 00:52:28,886 | INFO | ================================================================================
+2026-09-14 00:52:28,887 | INFO | Validating environment...
+2026-09-14 00:52:28,887 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 00:52:28,889 | INFO | Loaded 2 rule(s)
+2026-09-14 00:52:28,890 | INFO | Connecting to MongoDB...
+2026-09-14 00:52:30,744 | INFO | MongoDB connection successful
+2026-09-14 00:52:30,745 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 00:52:30,745 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 00:52:31,077 | INFO | Rule #1 | matched=1 | modified=1
+2026-09-14 00:52:31,077 | INFO | Rule #1 changed 1 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 00:52:31,077 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 00:52:31,410 | INFO | Rule #2 | matched=0 | modified=0
+2026-09-14 00:52:31,410 | INFO | Rule #2 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 00:52:31,715 | INFO | Total MongoDB records modified: 1
+2026-09-14 00:52:31,715 | INFO | Jenkins job(s) to trigger: Null_ins_new_209
+2026-09-14 00:52:31,716 | INFO | Triggering Jenkins job: Null_ins_new_209
+2026-09-14 00:52:31,716 | INFO | Jenkins URL: https://jenkins.aggregateintelligence.com/job/DC%20Support%20Scripts%20Handling/job/Null_ins_new_209/build
+2026-09-14 00:52:33,659 | INFO | Jenkins job triggered successfully: Null_ins_new_209
+2026-09-14 00:52:33,660 | INFO | Jenkins queue URL: http://jenkins.aggregateintelligence.com/queue/item/70787/
+2026-09-14 00:52:33,662 | INFO | ================================================================================
+2026-09-14 00:52:33,664 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 00:52:33,664 | INFO | ================================================================================
+2026-09-14 01:00:01,923 | INFO | ================================================================================
+2026-09-14 01:00:01,923 | INFO | CONSTRAINT AUTOMATION STARTED
+2026-09-14 01:00:01,923 | INFO | ================================================================================
+2026-09-14 01:00:01,923 | INFO | Validating environment...
+2026-09-14 01:00:01,923 | INFO | Loading rules from: /home/ai/Documents/Simbu/209_ins/rules.yaml
+2026-09-14 01:00:01,926 | INFO | Loaded 2 rule(s)
+2026-09-14 01:00:01,926 | INFO | Connecting to MongoDB...
+2026-09-14 01:00:03,857 | INFO | MongoDB connection successful
+2026-09-14 01:00:03,858 | INFO | Database: HotelRates_Live | Collection: Input
+2026-09-14 01:00:03,858 | INFO | Rule #1 | username=production@engine.com | websitecode=41 | status=0 -> 209
+2026-09-14 01:00:04,182 | INFO | Rule #1 | matched=4 | modified=4
+2026-09-14 01:00:04,183 | INFO | Rule #1 changed 4 record(s). Jenkins job 'Null_ins_new_209' is required.
+2026-09-14 01:00:04,183 | INFO | Rule #2 | username=production@engine.com | websitecode=9 | status=0 -> 209
+2026-09-14 01:00:04,512 | INFO | Rule #2 | matched=0 | modified=0
+2026-09-14 01:00:04,512 | INFO | Rule #2 changed nothing. No Jenkins trigger needed for this rule.
+2026-09-14 01:00:04,832 | INFO | Total MongoDB records modified: 4
+2026-09-14 01:00:04,832 | INFO | Jenkins job(s) to trigger: Null_ins_new_209
+2026-09-14 01:00:04,832 | INFO | Triggering Jenkins job: Null_ins_new_209
+2026-09-14 01:00:04,832 | INFO | Jenkins URL: https://jenkins.aggregateintelligence.com/job/DC%20Support%20Scripts%20Handling/job/Null_ins_new_209/build
+2026-09-14 01:00:06,785 | INFO | Jenkins job triggered successfully: Null_ins_new_209
+2026-09-14 01:00:06,785 | INFO | Jenkins queue URL: http://jenkins.aggregateintelligence.com/queue/item/70788/
+2026-09-14 01:00:06,787 | INFO | ================================================================================
+2026-09-14 01:00:06,788 | INFO | CONSTRAINT AUTOMATION COMPLETED SUCCESSFULLY
+2026-09-14 01:00:06,788 | INFO | ================================================================================
+2026-09-14 01:08:12,624 | INFO | websitecode=41 modified=2
+2026-09-14 01:08:12,938 | INFO | websitecode=9 modified=1
+2026-09-14 01:08:15,152 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 01:10:04,493 | INFO | websitecode=41 modified=2
+2026-09-14 01:10:07,835 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 01:11:57,883 | INFO | No changes found. Jenkins not triggered.
+2026-09-14 01:13:03,868 | INFO | No changes found. Jenkins not triggered.
+2026-09-14 01:14:14,462 | INFO | No changes found. Jenkins not triggered.
+2026-09-14 01:20:04,873 | INFO | websitecode=41 modified=6
+2026-09-14 01:20:07,455 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 01:30:04,339 | INFO | websitecode=41 modified=4
+2026-09-14 01:30:07,482 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 01:40:04,307 | INFO | websitecode=41 modified=2
+2026-09-14 01:40:07,043 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 01:50:03,744 | INFO | websitecode=41 modified=4
+2026-09-14 01:50:06,267 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:00:03,941 | INFO | websitecode=41 modified=1
+2026-09-14 02:00:06,632 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:10:04,479 | INFO | websitecode=41 modified=7
+2026-09-14 02:10:07,321 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:20:04,026 | INFO | websitecode=41 modified=7
+2026-09-14 02:20:04,340 | INFO | websitecode=9 modified=1
+2026-09-14 02:20:06,916 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:30:03,615 | INFO | websitecode=41 modified=1
+2026-09-14 02:30:03,927 | INFO | websitecode=9 modified=1
+2026-09-14 02:30:06,368 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:40:05,512 | INFO | websitecode=41 modified=5
+2026-09-14 02:40:10,578 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 02:50:04,683 | INFO | websitecode=41 modified=5
+2026-09-14 02:50:08,371 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:00:04,051 | INFO | websitecode=41 modified=4
+2026-09-14 03:00:06,578 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:10:04,313 | INFO | websitecode=41 modified=6
+2026-09-14 03:10:06,882 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:20:04,619 | INFO | websitecode=41 modified=6
+2026-09-14 03:20:07,639 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:30:04,738 | INFO | websitecode=41 modified=1
+2026-09-14 03:30:07,350 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:40:04,047 | INFO | websitecode=41 modified=2
+2026-09-14 03:40:04,360 | INFO | websitecode=9 modified=1
+2026-09-14 03:40:06,610 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 03:50:04,456 | INFO | websitecode=41 modified=4
+2026-09-14 03:50:07,265 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 04:00:03,964 | INFO | websitecode=41 modified=2
+2026-09-14 04:00:06,604 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 04:10:04,358 | INFO | websitecode=41 modified=6
+2026-09-14 04:10:07,024 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 04:20:05,138 | INFO | No changes found. Jenkins not triggered.
+2026-09-14 04:30:06,001 | INFO | websitecode=41 modified=5
+2026-09-14 04:30:09,358 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 04:40:04,293 | INFO | websitecode=41 modified=3
+2026-09-14 04:40:06,833 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 04:50:05,648 | INFO | websitecode=41 modified=5
+2026-09-14 04:50:08,036 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:00:04,968 | INFO | websitecode=41 modified=3
+2026-09-14 05:00:08,014 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:10:05,560 | INFO | websitecode=41 modified=8
+2026-09-14 05:10:08,603 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:20:05,469 | INFO | websitecode=41 modified=3
+2026-09-14 05:20:05,802 | INFO | websitecode=9 modified=1
+2026-09-14 05:20:08,075 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:30:03,873 | INFO | websitecode=41 modified=3
+2026-09-14 05:30:04,195 | INFO | websitecode=9 modified=1
+2026-09-14 05:30:06,428 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:40:04,170 | INFO | websitecode=41 modified=1
+2026-09-14 05:40:04,490 | INFO | websitecode=9 modified=2
+2026-09-14 05:40:06,814 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 05:50:05,324 | INFO | websitecode=41 modified=1
+2026-09-14 05:50:05,647 | INFO | websitecode=9 modified=2
+2026-09-14 05:50:07,987 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:00:05,101 | INFO | websitecode=41 modified=1
+2026-09-14 06:00:08,131 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:10:04,755 | INFO | websitecode=9 modified=2
+2026-09-14 06:10:07,405 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:20:04,479 | INFO | websitecode=41 modified=3
+2026-09-14 06:20:04,811 | INFO | websitecode=9 modified=2
+2026-09-14 06:20:07,345 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:30:05,549 | INFO | websitecode=41 modified=3
+2026-09-14 06:30:09,293 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:40:04,166 | INFO | websitecode=41 modified=2
+2026-09-14 06:40:04,489 | INFO | websitecode=9 modified=2
+2026-09-14 06:40:06,928 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 06:50:03,749 | INFO | websitecode=41 modified=1
+2026-09-14 06:50:04,059 | INFO | websitecode=9 modified=2
+2026-09-14 06:50:06,469 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:00:04,131 | INFO | websitecode=41 modified=2
+2026-09-14 07:00:06,957 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:10:04,511 | INFO | websitecode=41 modified=2
+2026-09-14 07:10:04,831 | INFO | websitecode=9 modified=1
+2026-09-14 07:10:07,546 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:20:04,661 | INFO | websitecode=41 modified=1
+2026-09-14 07:20:04,992 | INFO | websitecode=9 modified=2
+2026-09-14 07:20:07,640 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:30:05,921 | INFO | websitecode=41 modified=1
+2026-09-14 07:30:06,356 | INFO | websitecode=9 modified=1
+2026-09-14 07:30:08,936 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:40:04,138 | INFO | websitecode=41 modified=2
+2026-09-14 07:40:07,332 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-14 07:50:05,339 | INFO | No changes found. Jenkins not triggered.
+2026-09-16 22:00:31,111 | ERROR | Automation failed: No servers found yet, Timeout: 30.0s, Topology Description: <TopologyDescription id: 6aaac4092208bce67fd3a08e, topology_type: Unknown, servers: [<ServerDescription ('167.71.165.154', 15431) server_type: Unknown, rtt: None>]>
+2026-09-16 22:10:32,002 | ERROR | Automation failed: 167.71.165.154:15431: [Errno 113] No route to host (configured timeouts: socketTimeoutMS: 30000.0ms, connectTimeoutMS: 30000.0ms), Timeout: 30.0s, Topology Description: <TopologyDescription id: 6aaac6613421a08203b6f08d, topology_type: Unknown, servers: [<ServerDescription ('167.71.165.154', 15431) server_type: Unknown, rtt: None, error=AutoReconnect('167.71.165.154:15431: [Errno 113] No route to host (configured timeouts: socketTimeoutMS: 30000.0ms, connectTimeoutMS: 30000.0ms)')>]>
+2026-09-16 22:20:06,571 | INFO | websitecode=41 modified=4
+2026-09-16 22:20:07,128 | INFO | websitecode=9 modified=2
+2026-09-16 22:20:10,010 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-16 22:30:31,420 | ERROR | Automation failed: No servers found yet, Timeout: 30.0s, Topology Description: <TopologyDescription id: 6aaacb11445a44b3badf4006, topology_type: Unknown, servers: [<ServerDescription ('167.71.165.154', 15431) server_type: Unknown, rtt: None>]>
+2026-09-16 22:40:05,371 | INFO | No changes found. Jenkins not triggered.
+2026-09-16 22:50:05,747 | INFO | No changes found. Jenkins not triggered.
+2026-09-16 23:00:06,304 | INFO | websitecode=41 modified=4
+2026-09-16 23:00:06,919 | INFO | websitecode=9 modified=1
+2026-09-16 23:00:11,033 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-16 23:10:04,999 | INFO | websitecode=41 modified=7
+2026-09-16 23:10:05,386 | INFO | websitecode=9 modified=4
+2026-09-16 23:10:08,911 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-16 23:20:04,791 | INFO | websitecode=41 modified=7
+2026-09-16 23:20:05,237 | INFO | websitecode=9 modified=3
+2026-09-16 23:20:08,090 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-16 23:30:05,065 | INFO | websitecode=41 modified=4
+2026-09-16 23:30:08,308 | INFO | Jenkins triggered: Null_ins_new_209
+2026-09-16 23:40:22,826 | INFO | websitecode=41 modified=1
+2026-09-16 23:40:27,334 | INFO | Jenkins triggered: Null_ins_new_209
